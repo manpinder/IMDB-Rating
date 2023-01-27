@@ -1,2 +1,2 @@
 
-Tech Stack-Nltk, Logistic Regression, Wordcloud
+Tech Stack- Nltk, Logistic Regression, Wordcloud
